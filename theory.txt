@@ -1,0 +1,29 @@
+#class 15 Conditional Statement
+
+1. if Statement
+
+if(condition){
+    //code goes here.........
+}
+
+2. if else
+
+if(condition){
+    //code goes here.........
+} else{
+    //code goes here.........
+}
+
+
+<!--condition 3-->
+
+var taka =50;
+var coupon = 50;
+if (taka >= 100){
+    console.log('Yes!You can Buy a Car.');
+}else if('coupon= 1'){
+    console.log('Yes! You can buy a car with your coupon code.');
+}
+ else{
+    console.log('No! You can not buy a car.');
+
